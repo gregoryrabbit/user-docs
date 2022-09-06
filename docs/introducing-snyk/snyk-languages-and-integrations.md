@@ -14,7 +14,7 @@ Snyk supports a wide range of programming languages, allowing you to scan your c
 
 ### Supported integrations
 
-[Snyk integrations](https://docs.snyk.io/integrations) for your software development process include:
+[Snyk integrations](../integrations) for your software development process include:
 
 * [**Source control**](../integrations/git-repository-scm-integrations/)**:** cloud and self-hosted Git-based code repositories such as Github.
 * [**CI/CD integrations**](../integrations/ci-cd-integrations/): such as Jenkins or TeamCity.
